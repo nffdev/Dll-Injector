@@ -33,3 +33,7 @@ A simple tool for DLL injection into target processes on Windows.
 
 ## Resources
 - [Official Microsoft documentation on Windows APIs](https://docs.microsoft.com/en-us/windows/win32/)
+
+## Demo
+
+![Demo](https://raw.githubusercontent.com/nffdev/Dll-Injector/main/demo.gif)
